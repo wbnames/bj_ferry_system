@@ -12,7 +12,7 @@
  <a href="https://gitee.com/thinkgem/jeesite-vue/members" target="__blank"><img alt="fork" src="https://gitee.com/thinkgem/jeesite-vue/badge/fork.svg?theme=dark"></a>
 </p>
 
-## 技术交流
+## 技术交流1
 
 * 交流 QQ 群（千人大群）：`127515876`、`209330483`、`223507718`、`709534275`、`730390092`、`1373527`、`183903863(外包)`
 * 码云Gitee：<https://gitee.com/thinkgem/jeesite-vue>
